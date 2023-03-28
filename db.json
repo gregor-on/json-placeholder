@@ -1,16 +1,11 @@
 
   {
-    "holder_id": "00urnvcim4XBcSTRC0h7",
+    "holder_id": "54321",
     "holder_email": "atarg@foo.com",
-    "type": "Savings Account",
+    "type": "engineering",
     "holder": "Aegon Targaryen",
     "balance": 32000,
-    "currency": "EUR",
-    "icon": "",
-    "routing": "iban",
-    "iban": "CB015000001234561699",
-    "status": "active",
-    "opened": "20180229"
+
   }
 
 
