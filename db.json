@@ -1,10 +1,10 @@
 { 
   "user": [
   {
-    "holder_id": "54321",
-    "holder_email": "atarg@foo.com",
+    "id": "54321",
+    "email": "atarg@foo.com",
     "type": "engineering",
-    "holder": "Aegon Targaryen",
+    "name": "Aegon Targaryen",
     "balance": 32000
 
   }
