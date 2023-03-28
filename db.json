@@ -1,4 +1,5 @@
-
+{ 
+  "user": [
   {
     "holder_id": "54321",
     "holder_email": "atarg@foo.com",
@@ -7,5 +8,6 @@
     "balance": 32000
 
   }
-
+]
+}
 
